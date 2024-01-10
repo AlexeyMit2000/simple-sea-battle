@@ -1,0 +1,30 @@
+C:\Users\Student\Desktop\SeaBattle-master\SeaBattle\bin\Debug\SeaBattle.exe.config
+C:\Users\Student\Desktop\SeaBattle-master\SeaBattle\bin\Debug\SeaBattle.exe
+C:\Users\Student\Desktop\SeaBattle-master\SeaBattle\bin\Debug\SeaBattle.pdb
+C:\Users\Student\Desktop\SeaBattle-master\SeaBattle\obj\Debug\SeaBattle.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\SeaBattle-master\SeaBattle\obj\Debug\SeaBattle.FormGame.resources
+C:\Users\Student\Desktop\SeaBattle-master\SeaBattle\obj\Debug\SeaBattle.Properties.Resources.resources
+C:\Users\Student\Desktop\SeaBattle-master\SeaBattle\obj\Debug\SeaBattle.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\SeaBattle-master\SeaBattle\obj\Debug\SeaBattle.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\SeaBattle-master\SeaBattle\obj\Debug\SeaBattle.exe
+C:\Users\Student\Desktop\SeaBattle-master\SeaBattle\obj\Debug\SeaBattle.pdb
+D:\SeaBattle-master\SeaBattle\bin\Debug\SeaBattle.exe.config
+D:\SeaBattle-master\SeaBattle\bin\Debug\SeaBattle.exe
+D:\SeaBattle-master\SeaBattle\bin\Debug\SeaBattle.pdb
+D:\SeaBattle-master\SeaBattle\obj\Debug\SeaBattle.csprojAssemblyReference.cache
+D:\SeaBattle-master\SeaBattle\obj\Debug\SeaBattle.FormGame.resources
+D:\SeaBattle-master\SeaBattle\obj\Debug\SeaBattle.Properties.Resources.resources
+D:\SeaBattle-master\SeaBattle\obj\Debug\SeaBattle.csproj.GenerateResource.cache
+D:\SeaBattle-master\SeaBattle\obj\Debug\SeaBattle.csproj.CoreCompileInputs.cache
+D:\SeaBattle-master\SeaBattle\obj\Debug\SeaBattle.exe
+D:\SeaBattle-master\SeaBattle\obj\Debug\SeaBattle.pdb
+F:\Leha_rabota\резерв-флешка\колледж\31 11\програмирование\c#\SeaBattle-master\SeaBattle\bin\Debug\SeaBattle.exe.config
+F:\Leha_rabota\резерв-флешка\колледж\31 11\програмирование\c#\SeaBattle-master\SeaBattle\bin\Debug\SeaBattle.exe
+F:\Leha_rabota\резерв-флешка\колледж\31 11\програмирование\c#\SeaBattle-master\SeaBattle\bin\Debug\SeaBattle.pdb
+F:\Leha_rabota\резерв-флешка\колледж\31 11\програмирование\c#\SeaBattle-master\SeaBattle\obj\Debug\SeaBattle.csproj.AssemblyReference.cache
+F:\Leha_rabota\резерв-флешка\колледж\31 11\програмирование\c#\SeaBattle-master\SeaBattle\obj\Debug\SeaBattle.FormGame.resources
+F:\Leha_rabota\резерв-флешка\колледж\31 11\програмирование\c#\SeaBattle-master\SeaBattle\obj\Debug\SeaBattle.Properties.Resources.resources
+F:\Leha_rabota\резерв-флешка\колледж\31 11\програмирование\c#\SeaBattle-master\SeaBattle\obj\Debug\SeaBattle.csproj.GenerateResource.cache
+F:\Leha_rabota\резерв-флешка\колледж\31 11\програмирование\c#\SeaBattle-master\SeaBattle\obj\Debug\SeaBattle.csproj.CoreCompileInputs.cache
+F:\Leha_rabota\резерв-флешка\колледж\31 11\програмирование\c#\SeaBattle-master\SeaBattle\obj\Debug\SeaBattle.exe
+F:\Leha_rabota\резерв-флешка\колледж\31 11\програмирование\c#\SeaBattle-master\SeaBattle\obj\Debug\SeaBattle.pdb
